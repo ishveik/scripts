@@ -1,4 +1,4 @@
-# Installs MTProto
+# Installs [MTProto](https://core.telegram.org/proxy)
 
 ```bash
 wget -q https://raw.githubusercontent.com/ishveik/scripts/master/setup-mtg.sh
