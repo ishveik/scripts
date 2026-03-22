@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -e
 
+# remove yourself
+rm $0
+
 DOMAIN="govnozhop.mooo.com"
 PORT=8443
 WORKDIR="$HOME/mtg"
